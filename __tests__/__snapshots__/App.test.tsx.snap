@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component renders correctly 1`] = `
+<View>
+  <Text>
+    App
+  </Text>
+  <Text>
+    shubham ghanghotia
+  </Text>
+</View>
+`;
