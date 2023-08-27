@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">jest_testing</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+         <string moduleConfig="true" name="CodePushDeploymentKey">33fd641a-2a86-4624-b80f-a381aaa38c0d</string>
+
 </resources>
